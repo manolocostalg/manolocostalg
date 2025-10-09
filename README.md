@@ -1,5 +1,5 @@
 # 👋 ¡Hola, soy José Manuel Costal!  
-🎯 **QA Engineer en formación** | Testing Manual · API Testing · Agile | TripleTen Bootcamp  
+🎯 **QA Engineer** | Testing Manual · API Testing · Agile | TripleTen Bootcamp  
 
 ---
 
@@ -10,9 +10,11 @@
 ## 👨‍💻 Sobre mí 
 
 Soy **QA Engineer en formación** con experiencia en **pruebas manuales y de API**, actualmente cursando el **Bootcamp de QA Engineering de TripleTen**.  
+
 Mi objetivo es **garantizar la calidad del software** a través de análisis metódico, diseño de pruebas y documentación precisa.  
 
 Provengo del ámbito de **Mercadotecnia y Medios de Comunicación**, lo que me brinda una visión estratégica, orientada al detalle y a la comunicación efectiva.  
+
 Me motiva contribuir a equipos ágiles, optimizar procesos de testing y asegurar la entrega de productos confiables y de alto rendimiento.  
 
 Fuera del ámbito técnico, disfruto **aprender sobre historia**, **leer** y practicar **ciclismo de montaña**, actividades que fortalecen mi enfoque y resiliencia.  
