@@ -39,6 +39,7 @@ Fuera del ámbito técnico, disfruto **aprender sobre historia**, **leer** y pra
 ✅ **Gestión de errores con Jira y seguimiento de bugs**  
 ✅ **Metodologías Ágiles (Scrum)**  
 ✅ **Análisis de requisitos y trazabilidad**  
+✅ **Pruebas de aplicaciones móviles**  
 
 **🧰 Herramientas:**  
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -48,6 +49,7 @@ Fuera del ámbito técnico, disfruto **aprender sobre historia**, **leer** y pra
 ![Xmind](https://img.shields.io/badge/Xmind-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Apidocs](https://img.shields.io/badge/Apidocs-181717?style=for-the-badge&logo=github&logoColor=white)
 ![DevTools](https://img.shields.io/badge/DevTools-FF4B3E?style=for-the-badge&logo=xmind&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 
 ---
 
@@ -131,6 +133,31 @@ Validación de endpoints backend en un sistema de comercio digital, verificando 
 ![Logro](https://drive.google.com/uc?export=view&id=1RwV_j8qve8k4MPBTsKM-7LGfvl09CeOu)
 
 ---
+
+### 📱 **4. Mobile App Testing (Urban Lunch)**  
+📅 *Bootcamp TripleTen (2025)*  
+🧰 *Herramientas:* Android Studio, Jira, Google Sheets  
+
+**🧭 Contexto del Proyecto:**  
+Validación funcional y de interfaz de la aplicación móvil Urban Lunch, enfocada en el flujo completo de pedido: selección de punto de recogida, elección de platillos, confirmación del pedido y pantalla final de entrega.  
+
+**🔍 Análisis:**  
+- Creación de checklist profesional QA para cubrir funcionalidad y UI.
+- Ejecución de pruebas táctiles en Android Studio (emulador móvil).
+- Validación de estados de botones, mensajes de error, temporizador y renderizado del mapa.
+- Reporte de incidencias en Jira, utilizando formato estándar de defectos
+
+**🏁 Conclusiones Principales:**  
+- Flujo principal validado exitosamente con comportamiento estable.
+- Se detectaron errores visuales y de validación, correctamente documentados para el equipo de desarrollo.
+- Refuerzo en habilidades de mobile testing, documentación clara y análisis de experiencia usuario (UX).
+
+📸 **Material Visual:**  
+
+![Logro](https://drive.google.com/uc?export=view&id=1XqLB9UbxS7bS-Ti9rpboMkqz00rQKmNs)
+
+---
+
 
 ## 🧠 Dato curioso  
 
