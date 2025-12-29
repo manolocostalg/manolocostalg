@@ -158,6 +158,56 @@ Validación funcional y de interfaz de la aplicación móvil Urban Lunch, enfoca
 
 ---
 
+### 📱 **5. Análisis de Logs de Servidor y Base de Datos  **  
+📅 *Bootcamp TripleTen (2025)*  
+🧰 *Herramientas:* SSQL, Análisis de logs, Bash   
+
+**🧭 Contexto del Proyecto:**  
+Análisis integral de logs del servidor y base de datos para una aplicación de taxis, enfocado en detección de errores HTTP, filtrado de direcciones IP específicas y análisis de patrones de viaje.    
+
+**🔍 Análisis:**  
+- Filtrado y categorización de logs de errores HTTP (400, 500) usando línea de comandos.
+- Identificación de solicitudes específicas por direcciones IP y organización sistemática en directorios.
+- Consultas SQL complejas sobre datos de viajes de taxi para análisis de patrones de uso.
+- Correlación de datos meteorológicos con comportamiento de usuarios de taxis.
+- Análisis de duración, distancia y ubicaciones más frecuentes de viajes.
+
+**🏁 Conclusiones Principales:**  
+- Identificación exitosa de patrones de error en logs del servidor para optimización del sistema.
+- Análisis detallado de comportamiento de usuarios reveló insights valiosos sobre demanda de taxis.
+- Fortalecimiento de habilidades en administración de sistemas, SQL avanzado y análisis de big data.
+
+📸 **Material Visual:**  
+
+![Logro](https://drive.google.com/uc?export=view&id=1y7cWXkhnsUGsAWlGrBvPxGOqKC80MHR9)
+
+---
+
+### 📱 **6. Automatización de Pruebas para Urban Routes  **  
+📅 *Bootcamp TripleTen (2025)*  
+🧰 *Herramientas:* Python, Selenium WebDriver, PyTest, Git/GitHub    
+
+**🧭 Contexto del Proyecto:**  
+Automatización integral de pruebas de interfaz de usuario para Urban Routes, enfocada en el flujo completo de solicitud de taxi mediante Selenium WebDriver, cubriendo desde la selección de ubicaciones hasta la confirmación del pedido.   
+
+🔍 Análisis:  
+- Implementación de framework de automatización usando Python y Selenium WebDriver para pruebas de UI.
+- Desarrollo de casos de prueba automatizados para el escenario completo de solicitud de taxi.
+- Utilización de múltiples tipos de localizadores (ID, XPath, CSS Selector, Class Name) para interacción con elementos web.
+- Automatización de interacciones con campos de entrada, botones y elementos dinámicos de la interfaz.
+- Implementación de funciones de espera explícitas e implícitas para manejo de elementos dinámicos.
+- Configuración de entorno de desarrollo con control de versiones Git/GitHub.
+
+🏁 Conclusiones Principales:  
+- Framework de automatización exitosamente implementado con cobertura completa del flujo de usuario.
+- Reducción significativa del tiempo de ejecución de pruebas repetitivas mediante automatización de UI.
+- Fortalecimiento de habilidades en Python, Selenium WebDriver, manejo de localizadores y metodologías de testing automatizado.
+
+📸 **Material Visual:**  
+
+![Logro](https://drive.google.com/uc?export=view&id=1KhR8Bqnv8V3byEmiDuZs5o-o245rozcD)
+
+---
 
 ## 🧠 Dato curioso  
 
